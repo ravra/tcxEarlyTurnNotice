@@ -4,6 +4,9 @@
 # by looking back some number (goBack) Trackpoints for an earlier set of coordinates and using
 # those coordinates for the new CP.
 
+# Usage:
+# python3 tcxEarlyTurnNotice.py myRoute.tcx
+
 # Notes
 # This has only be tested on tcx files from ridewithgps
 # I've noticed that CoursePoints that are too close together (e.g. two quick turns) will not
